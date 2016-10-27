@@ -1,0 +1,9 @@
+{
+    "manifest_version":2,
+    "name": "Conference Component",
+    "version": "0.0.0.1",
+    "description": "Conference Component Description",
+    "permissions": [
+    ],
+    "devtools_page": "init.html"
+}
